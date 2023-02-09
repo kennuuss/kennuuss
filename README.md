@@ -1,6 +1,6 @@
-# Hello!
+# <div align="center"> Hello! </div>
 
 
-- 🔭 I`m currently working on my personal projects for my portfolio.
-- ❤️ I`m strive to do as much as possible and enjoy it.
-- 🌱 I’m currently learning how to design the most comfortable and beautiful websites that i can.
+ <div align="center">🔭 <br/> I`m currently working on my personal projects for my portfolio.</div><br/>
+ <div align="center">❤️ <br/>I`m strive to do as much as possible and enjoy it.</div><br/>
+ <div align="center">🌱 <br/>I’m currently learning how to design the most comfortable and beautiful websites that i can.</div><br/>
