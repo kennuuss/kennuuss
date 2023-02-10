@@ -30,8 +30,6 @@
 	     
 </p>
 	
-### Stats
-	
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kennuuss&theme=dark&hide_border=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 	
 </div>
