@@ -3,13 +3,6 @@
 # About me 
 	
 </div>
-	
-### Links 
-	
-  <a href='https://sabina-l.netlify.app/' >![link](https://img.shields.io/badge/Website-ffffff?style=for-the-badge&logo=link&logoColor=black)</a>
-  <a  href='https://t.me/kennuuss'>![telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)</a>
-  <a  href='https://www.upwork.com/freelancers/~01b7322956d1e3f011?s=1044578476142100545'>![upwork](https://img.shields.io/badge/upwork-4DBD3F?style=for-the-badge&logo=upwork&logoColor=white)</a>
-  <a  href='https://www.figma.com/@kennuu'>![figma](https://img.shields.io/badge/figma-FFC0CB?style=for-the-badge&logo=figma&logoColor=white)</a>
 
 ### I'm currently:
 	
