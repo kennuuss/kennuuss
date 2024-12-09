@@ -1,40 +1,49 @@
 <div align="center">
-  <h1 style="border-bottom: none; margin-bottom: 0;">🌟 Welcome to My GitHub Profile! 🌟</h1>
-</div>
 
-  </br>
-  </br>
+## About Me
 
-<div align="center">
+</br>
 
-## 👋 About Me:
+  <div align="center" style="margin-bottom: 20px;">
+    👋 
+    </br>
+    <strong>Hello! My name is Mark!</strong>
+    </br>
+    I am from Ukraine and i am really creative and artistic person. My MBTI is INTJ-A.
+  </div>
+  
+</br>
+</br>
 
   <div align="center" style="margin-bottom: 20px;">
     💡 
     </br>
     <strong>My hobbies</strong>
     </br>
-    Drawing, making web designs with Figma, and creating websites
+    Drawing, making web designs with Figma, and creating websites.
   </div>
   
-  </br>
-  </br>
+</br>
+</br>
   
   <div align="center">
     🌱 
     </br>
     <strong>Currently learning</strong> 
     </br>
-    Design of user-centric solutions, UI/UX design, and creating fully functioning and interactive web pages
+    Design of user-centric solutions, UI/UX design, and creating fully functioning and interactive web pages.
   </div>
 
 </div>
 
-  </br>
+</br>
+</br>
 
 <div align="center">
 
 ## 🚀 Technologies I Use
+
+</br>
 
 <table align="center" style="width:70%; margin: 20px auto; color: #444; font-size: 16px; text-align: center;">
   <tr>
@@ -69,14 +78,15 @@
 
 </div>
 
-  </br>
+</br>
 
 <div align="center">
 
-## 💬 Feel free to connect with me!
+## 💬 Feel free to contact me!
 
-  </br>
+</br>
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kennuuss)
 
+</br>
 </div>
