@@ -2,6 +2,9 @@
   <h1 style="border-bottom: none; margin-bottom: 0;">🌟 Welcome to My GitHub Profile! 🌟</h1>
 </div>
 
+  </br>
+  </br>
+
 <div align="center">
 
 ## 👋 About Me:
@@ -27,7 +30,10 @@
 
 </div>
 
----
+#
+
+  </br>
+  </br>
 
 <div align="center">
 
@@ -66,7 +72,10 @@
 
 </div>
 
----
+  </br>
+  </br>
+
+#
 
 <div align="center">
 
