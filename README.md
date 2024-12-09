@@ -1,3 +1,6 @@
+#
+  </br>
+  
 <div align="center">
   <h1 style="border-bottom: none; margin-bottom: 0;">🌟 Welcome to My GitHub Profile! 🌟</h1>
 </div>
@@ -33,11 +36,12 @@
 #
 
   </br>
-  </br>
 
 <div align="center">
 
 ### 🚀 Technologies I Use
+
+#
 
 <table align="center" style="width:70%; margin: 20px auto; color: #444; font-size: 16px; text-align: center;">
   <tr>
@@ -73,7 +77,6 @@
 </div>
 
   </br>
-  </br>
 
 #
 
@@ -81,6 +84,12 @@
 
 ### 💬 Feel free to connect with me!
 
+#
+
+  </br>
+
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kennuuss)
 
 </div>
+
+#
