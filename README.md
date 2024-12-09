@@ -2,20 +2,20 @@
   <h1 style="border-bottom: none; margin-bottom: 0;">🌟 Welcome to My GitHub Profile! 🌟</h1>
 </div>
 
----
-
 <div align="center">
 
 ### 👋 About Me:
 
   <div align="center" style="margin-bottom: 20px;">
-    💡 <strong>My hobbies:</strong>
+    💡 <strong>My hobbies</strong>
     <br/>
     Drawing, making web designs with Figma, and creating websites
   </div>
   
+  </br>
+  
   <div align="center">
-    🌱 <strong>Currently learning:</strong> 
+    🌱 <strong>Currently learning</strong> 
     <br/>
     Design of user-centric solutions, UI/UX design, and creating fully functioning and interactive web pages
   </div>
