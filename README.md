@@ -4,19 +4,24 @@
 
 <div align="center">
 
-### 👋 About Me:
+## 👋 About Me:
 
   <div align="center" style="margin-bottom: 20px;">
-    💡 <strong>My hobbies</strong>
-    <br/>
+    💡 
+    </br>
+    <strong>My hobbies</strong>
+    </br>
     Drawing, making web designs with Figma, and creating websites
   </div>
   
   </br>
+  </br>
   
   <div align="center">
-    🌱 <strong>Currently learning</strong> 
-    <br/>
+    🌱 
+    </br>
+    <strong>Currently learning</strong> 
+    </br>
     Design of user-centric solutions, UI/UX design, and creating fully functioning and interactive web pages
   </div>
 
