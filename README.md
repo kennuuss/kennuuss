@@ -1,9 +1,9 @@
-<h1 align="center">✨ About Me</h1>
+<h1 align="center">✨ About me</h1>
 
 </br>
 
 <div style="margin-bottom: 20px;">
-  <h3> 👋 Hello! My name is Mark! </h3>
+  <h3> 👋 Hello! My name is Mark </h3>
   </br>
   I am from Ukraine and i am very creative and artistic person. My MBTI is INTJ-A.
 </div>
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<h1>🚀 Technologies I Use</h1> 
+<h1>🚀 Technologies i use</h1> 
 
 </br>
 
