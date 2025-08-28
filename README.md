@@ -1,38 +1,25 @@
-<div>
-
-<h1 align="center">About Me</h1>
+<h1 align="center">✨ About Me</h1>
 
 </br>
 
-  <div style="margin-bottom: 20px;">
-    <h3> 👋 Hello! My name is Mark! </h3>
-    </br>
-    I am from Ukraine and i am very creative and artistic person. My MBTI is INTJ-A.
-  </div>
-  
+<div style="margin-bottom: 20px;">
+  <h3> 👋 Hello! My name is Mark! </h3>
+  </br>
+  I am from Ukraine and i am very creative and artistic person. My MBTI is INTJ-A.
+</div>
+
 </br>
 </br>
 
-  <div style="margin-bottom: 20px;">
-    <h3>💡 My hobbies</h3>
-    </br>
-    <ul>
-      <li>drawing
-      <li>creating web designs
-      <li>making fully working websites
-      <li>build telegram bots for sales / automactic notifications
-    </ul>
-  </div>
-  
-</br>
-</br>
-  
-  <div>
-    <h3>🌱 Currently learning</h3> 
-    </br>
-    Design of user-centric solutions, UI/UX design, and creating fully functioning and interactive web pages.
-  </div>
-
+<div style="margin-bottom: 20px;">
+  <h3>💡 My hobbies</h3>
+  </br>
+  <ul>
+    <li>drawing
+    <li>creating web designs
+    <li>making fully working websites
+    <li>build telegram bots for sales / automactic notifications
+  </ul>
 </div>
 
 </br>
@@ -40,7 +27,7 @@
 
 <div align="center">
 
-<h2>🚀 Technologies I Use</h2> 
+<h1>🚀 Technologies I Use</h1> 
 
 </br>
 
@@ -96,10 +83,11 @@
 </div>
 
 </br>
+</br>
 
 <div align="center">
 
-  <h2> 💬 Feel free to contact me!</h2>
+  <h1> 💬 Feel free to contact me!</h1>
   
   </br>
   
